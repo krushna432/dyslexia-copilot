@@ -6,6 +6,16 @@ DyslexiaPilot AI is a web application designed to be an adaptive, supportive, an
 
 Our mission is to make learning accessible for every student. DyslexiaPilot AI was created to ensure that dyslexia is never a barrier to understanding, expression, or academic success. The platform adapts to each student’s unique learning needs—simplifying reading, guiding writing, supporting study routines, and reducing stress—so students can learn with clarity, confidence, and independence.
 
+## Why DyslexiaPilot AI matters
+
+- 1 in 10 students have dyslexia, yet most tools focus only on reading help.
+
+- Students often feel embarrassed asking teachers for help.
+
+- Our tool gives them independence, confidence, and emotional support.
+
+- Helps level the academic playing field.
+
 ## Features
 
 DyslexiaPilot AI comes packed with features designed to support student at every step of their literacy journey:
@@ -66,6 +76,12 @@ The application uses a modern architecture that separates the frontend UI from t
 |         (Gemini)               |
 +--------------------------------+
 ```
+<img width="1892" height="612" alt="DyslexiaPilot AI System Architecture" src="https://github.com/user-attachments/assets/6acef7d0-1712-4639-8d7c-c6a00a8d5da4" />
+
+## User Journey Flow :
+
+<img width="2276" height="1508" alt="DyslexiaPilot AI User Journey" src="https://github.com/user-attachments/assets/e243608b-6999-4b34-95ae-643cf645848b" />
+
 
 ## How to Run the Project Locally
 
