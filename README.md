@@ -134,4 +134,4 @@ Here is a breakdown of the current flows:
 - Krushna Chandra Pradhan (Team Lead)
 
 
-# Built with ❤️ for students in Student HackPad 2025
+# Built with ❤️ for CodeCraze Hackathon 2025
